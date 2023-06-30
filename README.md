@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +45,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# portfolio4
+Reactを用いたポートフォリオアプリ。使用ツールは【React.js　node.js　Next.js】使用言語は【TypeScript　JavaScript　HTML/CSS】node.jsにて各種ツールをダウンロードした後作製。
+>>>>>>> 63bcb71a4a78b23c4f4eb2a23f3059983902549e
